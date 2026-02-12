@@ -176,19 +176,18 @@ html, body {
     background-repeat: no-repeat;
     background-position: center center;
 }
-
 #flat .line-break-1 {
- background: linear-gradient(60deg, #6de9f7, #4dbef7, #0077b3
+ background: linear-gradient(60deg,#6ffcfa, #FFFF00, #FF0000);
  width: 100%;
  margin: 0 auto;
 }
 #flat .line-break-2 {
- background: linear-gradient(60deg, #FFFF00, #FF0000, #F5F5DC);
+ background: linear-gradient(60deg, #FFFF00, #FF0000, #3cd1fa);
  width: 100%;
  margin: 0 auto;
 }
 #flat .line-break-3 {
- background: linear-gradient(60deg, #FF0000, #F5F5DC, #FFFF00);
+ background: linear-gradient(60deg, #FF0000, #0077b3, #FFFF00);
  width: 100%;
  margin: 0 auto;
 }
