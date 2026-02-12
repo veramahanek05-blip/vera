@@ -5,7 +5,7 @@ html, body {
     font-family: 'Open Sans', sans-serif;
     height: 100%;
     margin: 0;
-    background-color: #ecf0f1;
+    background-color:#0f0f0f;
 }
 
 .box {
@@ -98,7 +98,7 @@ html, body {
 }
 
 #flat .title {
-    background: white;
+    background: black;
     padding: 60px;
     margin: 0 auto;
     text-align: center;
@@ -110,7 +110,7 @@ html, body {
 }
 
 #flat .block {
-    background: white;
+    background: black;
     padding: 60px;
     width: 820px;
     margin: 0 auto;
@@ -178,7 +178,7 @@ html, body {
 }
 
 #flat .line-break-1 {
- background: linear-gradient(60deg, #F5F5DC, #FFFF00, #FF0000);
+ background: linear-gradient(60deg, #6de9f7, #4dbef7, #0077b3
  width: 100%;
  margin: 0 auto;
 }
